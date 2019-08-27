@@ -21,4 +21,4 @@ Cheers!
 
 Image:
 
-![Screen Shot 2019-08-27 at 4 16 12 PM](https://user-images.githubusercontent.com/22460957/63815537-96ddac80-c8fa-11e9-8a03-6e0ea6b90609.png)
+[Screen Shot 2019-08-27 at 4 16 12 PM](https://user-images.githubusercontent.com/22460957/63815537-96ddac80-c8fa-11e9-8a03-6e0ea6b90609.png)
