@@ -20,4 +20,5 @@ composer install
 # Cheers!
 
 # Image:
-![Screen Shot 2019-08-27 at 4 16 12 PM](https://user-images.githubusercontent.com/22460957/63815969-0a33ee00-c8fc-11e9-99f7-cba213f0d78c.png)
+![Screenshot 2021-06-02 101021](https://user-images.githubusercontent.com/22460957/120505614-bf75be80-c38a-11eb-977f-60f2ed66083c.png)
+
